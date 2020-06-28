@@ -1,0 +1,50 @@
+main{
+  font-family: 'Scope One', serif;
+    .url{
+        text-align: left;
+        margin: 25px 0px;
+
+        input{
+            width: 350px;
+            height: 25px;
+            margin: 10px 0px;
+
+                  }
+                  .go{
+                    font-size: 18px;
+              
+    }
+    }
+
+
+       .methodDiv{
+          text-align: center;
+          font-size: 18px;
+          .method{
+             font-size: 15px;
+              margin: 20px 5px;
+              padding: 5px 25px;
+              border: none;
+              background-color:  rgb(189, 189, 189);
+
+          }   
+          .method:hover {
+            background-color: #ddd;
+            background-color: #FFFFFF;
+          }
+
+      }
+
+
+
+    .output{
+      padding: 25px 50px;
+      height: 300px;
+      width: 90%;
+      background-color: #EFEFEF;
+      margin: 10px auto;
+      border-style: solid ;
+      border-color: rgb(168, 166, 166);
+
+    }
+ }
