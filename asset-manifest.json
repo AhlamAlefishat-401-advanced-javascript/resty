@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AhlamAlefishat-401-advanced-javascript/resty/static/css/main.7602a872.chunk.css",
+    "main.js": "/AhlamAlefishat-401-advanced-javascript/resty/static/js/main.78e13e09.chunk.js",
+    "main.js.map": "/AhlamAlefishat-401-advanced-javascript/resty/static/js/main.78e13e09.chunk.js.map",
+    "runtime-main.js": "/AhlamAlefishat-401-advanced-javascript/resty/static/js/runtime-main.e80ccefa.js",
+    "runtime-main.js.map": "/AhlamAlefishat-401-advanced-javascript/resty/static/js/runtime-main.e80ccefa.js.map",
+    "static/js/2.62d548b3.chunk.js": "/AhlamAlefishat-401-advanced-javascript/resty/static/js/2.62d548b3.chunk.js",
+    "static/js/2.62d548b3.chunk.js.map": "/AhlamAlefishat-401-advanced-javascript/resty/static/js/2.62d548b3.chunk.js.map",
+    "index.html": "/AhlamAlefishat-401-advanced-javascript/resty/index.html",
+    "precache-manifest.846652a931b9d144964bf36e80b90824.js": "/AhlamAlefishat-401-advanced-javascript/resty/precache-manifest.846652a931b9d144964bf36e80b90824.js",
+    "service-worker.js": "/AhlamAlefishat-401-advanced-javascript/resty/service-worker.js",
+    "static/css/main.7602a872.chunk.css.map": "/AhlamAlefishat-401-advanced-javascript/resty/static/css/main.7602a872.chunk.css.map",
+    "static/js/2.62d548b3.chunk.js.LICENSE.txt": "/AhlamAlefishat-401-advanced-javascript/resty/static/js/2.62d548b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e80ccefa.js",
+    "static/js/2.62d548b3.chunk.js",
+    "static/css/main.7602a872.chunk.css",
+    "static/js/main.78e13e09.chunk.js"
+  ]
+}
