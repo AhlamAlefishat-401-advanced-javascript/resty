@@ -9,6 +9,9 @@ Ahlam Alefishat
 
 ### Links and Resources
 - [PR]()
+- DEPLOYMENT:
+- - gitHub pages: https://ahlamalefishat-401-advanced-javascript.github.io/resty/ 
+- - netlify: https://elastic-shaw-ae7e2a.netlify.app/
 
 ### Setup
 - npx create-react-app resty
@@ -19,6 +22,11 @@ Ahlam Alefishat
 
 ### UML
 ![](./resty.jpg)
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
