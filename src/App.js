@@ -1,16 +1,26 @@
 import React from 'react';
-import Header from './components/header/header.js';
 import Form from './components/form/form.js';
-import Footer from './components/footer/footer.js';
+import Result from './components/results/results.js'
 
-function App() {
-  return (
-    <React.Fragment>
-    <Header/>
-    < Form/>
-    <Footer/>
-    </React.Fragment>
-  );
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      result: {},
+    };
+  }
+
+  handleForm = (results) => {
+    this.setState({ result: results });
+  };
+  render() {
+    return (
+      <>
+        <Form handler={this.handleForm} />
+        <Result result={this.state.result}/>
+      </>
+    );
+  }
 }
 
 export default App;
